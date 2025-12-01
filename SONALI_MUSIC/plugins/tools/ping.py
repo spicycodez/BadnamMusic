@@ -7,7 +7,7 @@ from config import *
 from SONALI_MUSIC import app
 from SONALI_MUSIC.core.call import Sona
 from SONALI_MUSIC.utils import bot_sys_stats
-from PURVI_MUSIC.utils.decorators.language import language
+from SONALI_MUSIC.utils.decorators.language import language
 from SONALI_MUSIC.utils.inline import supp_markup
 from config import BANNED_USERS
 
