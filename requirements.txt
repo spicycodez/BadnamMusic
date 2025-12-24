@@ -55,3 +55,4 @@ bing_image_downloader
 git+https://github.com/TEAMPURVI/PurviAPI
 googlesearch-python
 sympy
+yt-search-py
