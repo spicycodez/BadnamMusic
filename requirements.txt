@@ -40,6 +40,7 @@ unidecode
 yt-dlp
 youtube-search
 youtube-search-python
+yt-search-py
 gtts
 git+https://github.com/AsmSafone/SafoneAPI
 lexica-api==1.5.1
