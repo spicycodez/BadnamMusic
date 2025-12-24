@@ -50,7 +50,7 @@ class Helper(object):
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
 ```
- єxᴧϻᴘʟє : @Candyy_music_robot @III_BADNAM_BABY_lll I love You 😘
+ єxᴧϻᴘʟє : @SWAGGY_MUSICBOT @SheOwnsMaxim I love You 😘
 ```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
@@ -437,9 +437,9 @@ class Helper(object):
 ● ᴇηᴊᴏʏ ғєєʟ ғʀєє ϻᴜsɪᴄ ᴡɪᴛʜ 𝐊ʀɪᴛɪ.
 ● ᴧᴅᴅ ϻє ηᴏᴡ ʙᴧʙʏ ɪɴ ʏᴏᴜʀ ɢʀσᴜᴘs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹ᴋɪʀᴛɪ ᴜᴘᴅᴀᴛᴇ ˼ 💞](https://t.me/SpicyxNetwork)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [˹ᴋɪʀᴛɪ sᴜᴘᴘᴏʀᴛ˼ 💞](https://t.me/ChatHouseGc)
-❖ ʙᴏᴛ σᴡηєʀ ➥ [ʙᴀᴅɴᴀᴍ_ᴏᴘ 💕](https://t.me/SheOwnsMaxim)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹ sᴘɪᴄʏ ꭙ ɴᴇᴛᴡᴏʀᴋ ˼](https://t.me/SpicyxNetwork)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [𝗖ᖾ𝝰𝚻𝗛ꭷ𝛖𝛅𝛜 🎀🏡](https://t.me/ChatHouseGc)
+❖ ʙᴏᴛ σᴡηєʀ ➥ [- 𝚳 ⋏ 𐩃 ι ϻ 💸](https://t.me/SheOwnsMaxim)
 ❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](https://t.me/SpicyxBots)
 ─────────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
