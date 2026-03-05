@@ -31,10 +31,10 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID,style=enums.ButtonStyle.PRIMARY),
-            InlineKeyboardButton("⌯ ᴧʙσυт ⌯", callback_data="ALLBOT_CP"),
+            InlineKeyboardButton("⌯ ᴧʙσυт ⌯", callback_data="ALLBOT_CP",style=enums.ButtonStyle.PRIMARY),
         ],
         [
-            InlineKeyboardButton("⌯ ʏᴛ-ᴀᴘɪ ⌯", callback_data="bot_info_data"),
+            InlineKeyboardButton("⌯ ʏᴛ-ᴀᴘɪ ⌯", callback_data="bot_info_data",style=enums.ButtonStyle.PRIMARY),
         ],
     ]
     return buttons
