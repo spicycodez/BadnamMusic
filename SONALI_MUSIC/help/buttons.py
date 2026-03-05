@@ -7,33 +7,33 @@ from SONALI_MUSIC import app
 class BUTTONS(object):
     BBUTTON = [
         [
-            InlineKeyboardButton("ᴄʜᴧᴛ-ɢᴘᴛ", callback_data="TOOL_BACK HELP_01"),
-            InlineKeyboardButton("ᴧᴄᴛɪση", callback_data="TOOL_BACK HELP_14"),
-            InlineKeyboardButton("ᴄσᴜᴘʟєs", callback_data="TOOL_BACK HELP_08"),
+            InlineKeyboardButton("ᴄʜᴧᴛ-ɢᴘᴛ", callback_data="TOOL_BACK HELP_01",style=enums.ButtonStyle.PRIMARY),
+            InlineKeyboardButton("ᴧᴄᴛɪση", callback_data="TOOL_BACK HELP_14",style=enums.ButtonStyle.PRIMARY),
+            InlineKeyboardButton("ᴄσᴜᴘʟєs", callback_data="TOOL_BACK HELP_08",style=enums.ButtonStyle.PRIMARY),
         ],
         [
-            InlineKeyboardButton("sєᴧʀᴄʜ", callback_data="TOOL_BACK HELP_02"),
+            InlineKeyboardButton("sєᴧʀᴄʜ", callback_data="TOOL_BACK HELP_02",style=enums.ButtonStyle.PRIMARY),
             InlineKeyboardButton("ᴛʀᴧηsʟᴧᴛє", callback_data="TOOL_BACK HELP_24"),
             InlineKeyboardButton("ɪηғσ", callback_data="TOOL_BACK HELP_04"),
         ],
         [
-            InlineKeyboardButton("ғσηᴛ", callback_data="TOOL_BACK HELP_05"),
-            InlineKeyboardButton("ᴡʜɪsᴘєʀ", callback_data="TOOL_BACK HELP_03"),
-            InlineKeyboardButton("ᴛᴧɢᴧʟʟ", callback_data="TOOL_BACK HELP_07"),
+            InlineKeyboardButton("ғσηᴛ", callback_data="TOOL_BACK HELP_05",style=enums.ButtonStyle.PRIMARY),
+            InlineKeyboardButton("ᴡʜɪsᴘєʀ", callback_data="TOOL_BACK HELP_03",style=enums.ButtonStyle.PRIMARY),
+            InlineKeyboardButton("ᴛᴧɢᴧʟʟ", callback_data="TOOL_BACK HELP_07",style=enums.ButtonStyle.PRIMARY),
         ],
         [
             InlineKeyboardButton("ғυη", callback_data="TOOL_BACK HELP_11"),
             InlineKeyboardButton("ǫυσᴛʟʏ", callback_data="TOOL_BACK HELP_12"),
-            InlineKeyboardButton("Ⓣ-ɢʀᴧᴘʜ", callback_data="TOOL_BACK HELP_26"),
+            InlineKeyboardButton("Ⓣ-ɢʀᴧᴘʜ", callback_data="TOOL_BACK HELP_26",style=enums.ButtonStyle.PRIMARY),
         ],
         [
-            InlineKeyboardButton("ɢᴧϻє", callback_data="TOOL_BACK HELP_21"),
-            InlineKeyboardButton("sєᴛᴜᴘ", callback_data="TOOL_BACK HELP_17"),
-            InlineKeyboardButton("sᴧηɢϻᴧᴛᴧ", callback_data="TOOL_BACK HELP_23"),
+            InlineKeyboardButton("ɢᴧϻє", callback_data="TOOL_BACK HELP_21",style=enums.ButtonStyle.PRIMARY),
+            InlineKeyboardButton("sєᴛᴜᴘ", callback_data="TOOL_BACK HELP_17",style=enums.ButtonStyle.PRIMARY),
+            InlineKeyboardButton("sᴧηɢϻᴧᴛᴧ", callback_data="TOOL_BACK HELP_23",style=enums.ButtonStyle.PRIMARY),
         ],
         [
             InlineKeyboardButton("ɢɪᴛʜᴜʙ", callback_data="TOOL_BACK HELP_25"),
-            InlineKeyboardButton("⌯ ʙᴧᴄᴋ ⌯", callback_data=f"MAIN_CP"),
+            InlineKeyboardButton("⌯ ʙᴧᴄᴋ ⌯", callback_data=f"MAIN_CP",style=enums.ButtonStyle.DANGER),
             InlineKeyboardButton("sᴛɪᴄᴋєʀs", callback_data="TOOL_BACK HELP_10"),
         ]
     ]
