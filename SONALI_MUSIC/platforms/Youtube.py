@@ -5,7 +5,7 @@ from typing import Union
 import yt_dlp
 from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
-from youtubesearchpython import VideosSearch, Playlist
+from py_yt import VideosSearch, Playlist
 from SONALI_MUSIC.utils.formatters import time_to_seconds
 import aiohttp
 from SONALI_MUSIC import LOGGER
