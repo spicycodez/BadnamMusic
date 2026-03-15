@@ -43,7 +43,7 @@ youtube-search-python
 gtts
 git+https://github.com/AsmSafone/SafoneAPI
 lexica-api==1.5.1
-httpx
+httpx==0.24.1
 gpytranslate
 openai==0.28.0
 pickledb
