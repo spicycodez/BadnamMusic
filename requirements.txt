@@ -1,7 +1,7 @@
 aiofiles
 bard
 SpeechRecognition
-aiohttp 
+aiohttp
 asyncio
 deepai
 python-whois
@@ -14,7 +14,7 @@ pydub
 pycountry
 heroku3
 apscheduler
-motor 
+motor
 numpy
 pillow==9.5.0
 psutil
@@ -55,4 +55,3 @@ bing_image_downloader
 git+https://github.com/TEAMPURVI/PurviAPI
 googlesearch-python
 sympy
-py-yt
